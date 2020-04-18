@@ -209,7 +209,7 @@ modules:
   mod_client_state: {}
   mod_configure: {}
   mod_disco: {}
-  mod_fail2ban: {}
+  #mod_fail2ban: {}
   mod_http_api: {}
   mod_http_upload:
     put_url: https://@HOST@:5443/upload
